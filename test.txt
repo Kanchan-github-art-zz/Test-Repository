@@ -1,5 +1,5 @@
 <appSetting>
-<add key="db_password" value="test">
+<add key="password" value="test">
 <add key="django_password" value="test">
 <add key="database_username" value="user">
 </appSetting>
